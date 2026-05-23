@@ -1,3 +1,4 @@
+![logo](images/ic_launcher.png)
 # TInstaller
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maksim-ignatov/tinstaller/total)
